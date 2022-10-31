@@ -124,6 +124,11 @@ $very-dark-blue: hsl(240, 100%, 5%);
                 letter-spacing: .25rem;
                 background-color: $soft-red;
                 padding: 1rem 2.5rem;
+
+                &:hover {
+                    cursor: pointer;
+                    background-color: $very-dark-blue;
+                }
             }
         }
 

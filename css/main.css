@@ -98,6 +98,10 @@
   background-color: hsl(5deg, 85%, 63%);
   padding: 1rem 2.5rem;
 }
+* body section.featured a:hover {
+  cursor: pointer;
+  background-color: hsl(240deg, 100%, 5%);
+}
 * body section.new {
   background-color: hsl(240deg, 100%, 5%);
   padding: 1rem 1.5rem;
